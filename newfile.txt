@@ -1,2 +1,0 @@
-<h1>"My First file"</h1>
-"Second line in the file
